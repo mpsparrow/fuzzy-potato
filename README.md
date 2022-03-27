@@ -1,2 +1,4 @@
 # fuzzy-potato
-Personal stat/habit tracking REST API
+routine/stat/habit tracking REST API
+
+### Currently working on first version
