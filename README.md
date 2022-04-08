@@ -1,4 +1,2 @@
 # fuzzy-potato
-routine/stat/habit tracking REST API
-
-### Currently working on first version
+testing out the falcon library by creating a REST API and messing with features
